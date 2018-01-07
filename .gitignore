@@ -20,6 +20,9 @@
 *.tar
 *.zip
 
+#tmp emacs files
+*.*~
+
 # Logs and databases #
 ######################
 *.log
