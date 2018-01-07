@@ -1,0 +1,16 @@
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/CurrencyCode.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/Product.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/RestExceptionHandler.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/MyRetailException.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ErrorResponse.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/Application.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ProductController.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/Price.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ApiError.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ValidationException.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/Validate.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ServerConfig.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ApiSubError.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/ApiValidationError.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/DbConnection.java
+/home/sei/JavaProjects/webProjects/extendedTargetProject/target-spring-boot/skorti/src/main/java/product/EntityNotFoundException.java

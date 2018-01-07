@@ -1,0 +1,16 @@
+product/MyRetailException.class
+product/EntityNotFoundException.class
+product/ApiSubError.class
+product/CurrencyCode.class
+product/ApiValidationError.class
+product/ServerConfig.class
+product/Price.class
+product/DbConnection.class
+product/ApiError.class
+product/Application.class
+product/RestExceptionHandler.class
+product/ProductController.class
+product/ErrorResponse.class
+product/ValidationException.class
+product/Product.class
+product/Validate.class
