@@ -41,7 +41,7 @@ public class ProductController {
     
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Target Product Controller.";
+        return "Greetings from Extended Target Product Controller.";
     }
     
     /**

@@ -1,4 +1,5 @@
 mvn package && java -debug -jar target/target-myretail-extended-0.1.0.jar
+http://localhost:8080/products/13860428
 
 use myretail
 db.createUser(
